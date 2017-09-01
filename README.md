@@ -5,9 +5,9 @@ This repository contains scripts shared during the machine learning challenge fo
 
 The aim of this challenge is to encourage beginners to gain more hands on experience in solving ML problems.
 
-**Challenge Name:** Predict the Happiness
-**Duration:** 30th August 2017 to 31st November 2017
-**Type:** Binary Classification
+**Challenge Name:** Predict the Happiness <br />
+**Duration:** 30th August 2017 to 31st November 2017 <br />
+**Type:** Binary Classification <br />
 **Metrics:** Accuracy
 
 
